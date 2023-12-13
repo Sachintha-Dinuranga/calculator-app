@@ -1,7 +1,7 @@
 
-# Simple Calculator App
+# Calculator App
 
-Welcome to the Simple Calculator App repository! This project was created for learning purposes, using HTML, CSS, and JavaScript. It serves as a beginner-friendly example for understanding the basics of web development
+Welcome to the Calculator App repository! This project was created for learning purposes, using HTML, CSS, and JavaScript. It serves as a beginner-friendly example for understanding the basics of web development
 
 
 ## Features
