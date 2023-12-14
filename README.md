@@ -14,7 +14,7 @@ Welcome to the Calculator App repository! This project was created for learning 
 
 ## Screenshots
 
-![App Screenshot]("C:\Users\HP\Downloads\Calculator.jpg")
+![Calculator](https://github.com/Sachintha-Dinuranga/calculator-app/assets/117833055/80626eae-7e20-4b9d-9029-3204f019562f)
 
 
 ## Technolgies Used
